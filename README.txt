@@ -1,0 +1,1 @@
+Make sure to add all libraries to the IDE. Wiring diagrams available in media folder. The diagrams shown try to use the same pin so I reassigned the IR received to pin 5 and made that adjustment in the code. See photo of wiring as well.
